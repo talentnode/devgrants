@@ -29,6 +29,8 @@ Grants are announced by TalentNode's core team through our community channels. W
 
 The sizes of the grants depend entirely on TalentNode's performance. The more companies post jobs, the more grants we have available. Therefore, if you would like to help us on our mission to create sustainability for the open-source community, you can do so by spreading the word!
 
+<br>
+
 ## Who can apply for grants?
 
 For the time being, you are eligible to apply for a grant from anywhere in the world as long as you are able to issue an invoice to TalentNode as a freelancer or a business. 
